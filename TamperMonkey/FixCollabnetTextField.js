@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.3
 // @description  Flex fields extend beyond normal bounds
-// @author       Hans Kramer
+// @author       Happy Hacking Hans
 // @match        https://mdi.collab.net/sf/*/artf*
 // @grant        none
 // ==/UserScript==
